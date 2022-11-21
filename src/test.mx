@@ -1,0 +1,22 @@
+int GGG=22*33;
+int f(int x){
+	return x;
+}
+int main() {
+  int g=1+a;
+  int a,b,c=1,d=1;
+  a=b+c;
+  b=a+d;
+  for(a=1;a<=10;a++){
+  	for(b=1;b<=10;b++){
+  		c++;
+  		if(c==0)break;
+  		else {
+  			c++;
+  		}
+  		d++;
+  		if(d==0)continue;
+  	}
+  }
+  return 0;
+}
